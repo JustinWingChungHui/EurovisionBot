@@ -328,3 +328,9 @@ ASALocalRun/
 
 # MFractors (Xamarin productivity tool) working folder 
 .mfractor/
+
+
+# Project Specific 
+LyricScraper/LyricScraper/App.config
+LyricFormatter/LyricFormatter/App.config
+
